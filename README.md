@@ -38,7 +38,7 @@ Power BI is used to create interactive and informative visualizations that showc
 - Dashboards summarizing key performance indicators (KPIs).
 
 ### Power BI Visualization
-![Dashboard 1](https://github.com/Naheeda78/Pizza-Sales-Analysis/blob/main/PizzaSalesDashboard.png)
+![Dashboard 1](https://github.com/naheeda78/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/PizzaSalesDashboard.png)
 ![Dashboard 2](https://github.com/Naheeda78/Pizza-Sales-Analysis/blob/main/PizzaSalesDashboard2.png)
 ### 5. Insights and Recommendations
 
