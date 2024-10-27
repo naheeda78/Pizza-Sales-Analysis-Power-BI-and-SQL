@@ -36,3 +36,7 @@ Power BI is used to create interactive and informative visualizations that showc
 - Time series charts illustrating sales trends.
 - Geographic maps showing the distribution of restaurant locations.
 - Dashboards summarizing key performance indicators (KPIs).
+
+  ### Power BI Visualization
+
+![Dashboard 1](### Power BI Visualization
