@@ -29,7 +29,7 @@ The Pizza Sales Project is a data analysis and visualization project aimed at an
   
 ![Dashboard 1](https://github.com/naheeda78/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/PizzaSalesDashboard.png)
 ![Dashboard 2](https://github.com/naheeda78/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/pizzaSalesDashboard(2).png)
-### 5. Insights and Recommendations
+###  Insights and Recommendations
 
 Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
 
