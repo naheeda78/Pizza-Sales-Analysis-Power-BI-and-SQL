@@ -9,34 +9,19 @@ The Pizza Sales Project is a data analysis and visualization project aimed at an
 - **Identify Trends and Patterns:** Uncover daily order trends, peak sales times, and popular product categories.
 - **Provide Actionable Insights:** Compare sales performance, understand customer preferences, and highlight areas for improvement.
   
-## Project Components
+## 📊 Dashboard Features
 
-### 1. Data Acquisition
+### Key Performance Indicators
+- **Total Revenue** - Total sales generated.
+- **Average Order Value** - Average spend per order.
+- **Total Pizzas Sold** - Number of pizzas sold.
+- **Total Orders** - Number of unique orders placed.
+- **Average Pizzas per Order** - Average quantity per order.
 
-The project begins with the acquisition of raw sales data. This data may include information such as customer orders, product details, order dates, and transaction amounts. Data can be obtained from various sources, including databases, CSV files, or other data storage systems.
-
-### 2. Data Transformation with SQL
-
-SQL (Structured Query Language) is used to clean, filter, and transform the raw data into a format suitable for analysis. This may involve tasks such as joining tables, aggregating data, handling missing values, and creating new calculated fields.
-
-### 3. Data Analysis
-
-Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This may include:
-
-- Identifying top-selling pizza flavors.
-- Analyzing sales trends over time.
-- Evaluating customer demographics and preferences.
-- Calculating average order values.
-- Assessing the performance of individual restaurant locations.
-
-### 4. Power BI Visualization
-
-Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
-
-- Bar charts and pie charts displaying sales by product category.
-- Time series charts illustrating sales trends.
-- Geographic maps showing the distribution of restaurant locations.
-- Dashboards summarizing key performance indicators (KPIs).
+### Visualizations
+- **Daily and Monthly Trends for Orders:** Bar and line charts show order trends over time.
+- **Sales Distribution by Category and Size:** Pie charts to identify popular categories and sizes.
+- **Top and Bottom Sellers:** Bar charts for best and worst sellers by revenue, quantity, and order count.
 
 ### Power BI Visualization
 ![Dashboard 1](https://github.com/naheeda78/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/PizzaSalesDashboard.png)
