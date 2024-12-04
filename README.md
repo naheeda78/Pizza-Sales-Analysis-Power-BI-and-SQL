@@ -26,6 +26,7 @@ The Pizza Sales Project is a data analysis and visualization project aimed at an
 ## 📊 Power BI Dashboard
 - A dynamic, interactive dashboard was created in Power BI to visualize key performance indicators (KPIs) and trends in pizza sales.
 - The visualizations include bar charts, line charts, pie charts, and funnel charts, providing a comprehensive overview of sales performance, customer preferences, and product popularity.
+  
 ![Dashboard 1](https://github.com/naheeda78/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/PizzaSalesDashboard.png)
 ![Dashboard 2](https://github.com/naheeda78/Pizza-Sales-Analysis-Power-BI-and-SQL/blob/main/pizzaSalesDashboard(2).png)
 ### 5. Insights and Recommendations
