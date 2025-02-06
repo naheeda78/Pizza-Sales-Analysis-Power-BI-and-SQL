@@ -9,7 +9,8 @@ The Pizza Sales Project is a data analysis and visualization project aimed at an
 - **Identify Trends and Patterns:** Uncover daily order trends, peak sales times, and popular product categories.
 - **Provide Actionable Insights:** Compare sales performance, understand customer preferences, and highlight areas for improvement.
 
-- ## Tools Used
+ ## Tools Used
+ 
 - **Power BI**: For creating the dashboard and visualizations.
 - **SQL**: For data validation and querying.
 - **Excel**: Data manipulation and preliminary analysis.
